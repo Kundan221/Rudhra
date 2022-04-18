@@ -10,11 +10,11 @@
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Ponnu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Kundan221"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/Kundan221">Kundan221</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kundan221/Rudhra)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra/fork)
+ Click [FORK](https://github.com/Kundan221/Rudhra/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra copy this url and change prince-rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Kundan221/Rudhra copy this url and change Kundan221 with your github username and click go<br>
 
 ----
 
@@ -61,13 +61,13 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra?color=Magenta&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Kundan221/Rudhra">
+    <img src="https://img.shields.io/github/repo-size/Kundan221/Rudhra?color=Magenta&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra?label=Watchers&color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Kundan221/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Kundan221/Rudhra/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kundan221/Rudhra?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Kundan221/Rudhra/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kundan221/Rudhra?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Kundan221/Rudhra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kundan221/Rudhra?label=Watchers&color=Magenta&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-Magenta.svg"</a>
 </p>
 
@@ -86,7 +86,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra
+$ git clone https://github.com/Kundan221/Rudhra
 $ cd Rudhra
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -96,7 +96,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra
+$ git clone https://github.com/Kundan221/Rudhra
 $ cd Rudhra
 $ chmod +x *
 $ npm i
@@ -117,7 +117,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/princerudh)
+  [![`Prince Rudh`](https://github.com/Kundan221.png?size=200)](https://github.com/princerudh)
 
 [`Prince Rudh`](https://github.com/princerudh)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
